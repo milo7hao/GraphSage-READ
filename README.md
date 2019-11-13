@@ -1,2 +1,2 @@
-# GraphSage-READ
-williamleif/GraphSAGE中文注释
+# Reference
+https://github.com/williamleif/GraphSAGE
