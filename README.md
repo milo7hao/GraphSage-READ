@@ -2,13 +2,13 @@
 
 relation没有embedding
 
-### `unsupervised_train.py`
+#### `unsupervised_train.py`
 
 1，用node和node的连接信息训练
 
 2，可以输出node的embedding
 
-### `supervised_train.py`
+#### `supervised_train.py`
 
 1，用node的类别label进行节点分类训练
 
